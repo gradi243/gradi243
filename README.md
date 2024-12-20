@@ -3,9 +3,9 @@
 # Salut 👋, je suis ISAAC GRADY  
 Un développeur web et desktop passionné de la République Démocratique du Congo  
 
-<p align="center">  
-  <img src="https://user-images.githubusercontent.com/your-image-link-here.png" width="250"/>
-</p>  
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2019/11/15/10/37/web-4621231_1280.jpg" width="500" alt="Développeur au travail"/>
+</p> 
 
 ## 🧑‍💻 À propos de moi :  
 
