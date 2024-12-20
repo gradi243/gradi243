@@ -4,7 +4,7 @@
 Un développeur web et desktop passionné de la République Démocratique du Congo  
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2015/01/21/14/14/apple-606761_1280.jpg" width="500" alt="Développeur en train de coder"/>
+  j'ai foi à ma destinée
 </p>
 
 ## 🧑‍💻 À propos de moi :  
