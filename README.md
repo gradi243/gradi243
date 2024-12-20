@@ -4,7 +4,7 @@
 Un développeur web et desktop passionné de la République Démocratique du Congo  
 
 <p align="center">  
-  <img src="[https://https://cdn.pixabay.com/photo/2016/11/29/04/17/code-1863495_1280.jpg]" width="250"/>  
+  <img src="https://user-images.githubusercontent.com/your-image-link-here.png" width="250"/>
 </p>  
 
 ## 🧑‍💻 À propos de moi :  
