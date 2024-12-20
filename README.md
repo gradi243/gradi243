@@ -4,8 +4,8 @@
 Un développeur web et desktop passionné de la République Démocratique du Congo  
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2019/11/15/10/37/web-4621231_1280.jpg" width="500" alt="Développeur au travail"/>
-</p> 
+  <img src="https://cdn.pixabay.com/photo/2015/01/21/14/14/apple-606761_1280.jpg" width="500" alt="Développeur en train de coder"/>
+</p>
 
 ## 🧑‍💻 À propos de moi :  
 
